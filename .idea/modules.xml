@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/XListView/XListView.iml" filepath="$PROJECT_DIR$/XListView/XListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/csdnspider/csdnspider.iml" filepath="$PROJECT_DIR$/csdnspider/csdnspider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestureimageview/gestureimageview.iml" filepath="$PROJECT_DIR$/gestureimageview/gestureimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewPagerlibrary/viewPagerlibrary.iml" filepath="$PROJECT_DIR$/viewPagerlibrary/viewPagerlibrary.iml" />
     </modules>
   </component>

@@ -25,6 +25,7 @@
         </activity>
 
         <activity android:name=".ui.NewsContentActivity" />
+        <activity android:name=".ui.ImageShowActivity" />
 
     </application>
 
