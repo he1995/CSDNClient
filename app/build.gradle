@@ -34,4 +34,5 @@ dependencies {
     compile project(':XListView')
     compile 'com.orhanobut:logger:2.1.1'
     compile files('libs/csdn_splider.jar')
+    compile 'com.bm.photoview:library:1.4.1'
 }
